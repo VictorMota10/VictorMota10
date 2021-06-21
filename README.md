@@ -6,8 +6,12 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1624239924648.png" width="300px" />
 
-<br/>
+### Conect with me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-dos-santos-mota-a71180193/)
 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.comhttps://www.instagram.com/motavic_/)](https://www.instagram.com/motavic_/)
+<br/>
+<br/>
 ## A little more about me
  - 🧑🏻‍💻 I'm acquiring new knowledge in JavaScript and PHP...
  - 🚀 I like to find and solve new challenges...
