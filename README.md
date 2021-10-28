@@ -1,6 +1,6 @@
 # Hey 👋!
 
-My name is Victor dos Santos Mota, I'm from Brazil, I'm Software Engineer Student, that has been working as Full-Stack developer Jr and Ux Designer since 2020.  👨🏼‍💻
+My name is Victor dos Santos Mota, I'm from Brazil, I'm Software Engineer Student, that has been working as Full-Stack developer and Product Designer since 2020.  👨🏼‍💻
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
