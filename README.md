@@ -4,7 +4,11 @@ My name is Victor dos Santos Mota, I'm from Brazil, I'm Software Engineer Studen
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1624239924648.png" width="300px" />
+<br/>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMota10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="505em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMota10&layout=compact&langs_count=7&theme=dark"  data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatohigor&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ### Conect with me
 
@@ -14,8 +18,6 @@ I'm passionate about solving problems and learning. Always open to new challenge
  - 🧑🏻‍💻 I'm acquiring new knowledge in Protopie ...
  - 🚀 I like to find and solve new challenges...
  - 🕹️  Game world lover.
-
-## 🌍 "The more i know the more i'm" 💫
 
 ### My Skills
 #### Front-end:
