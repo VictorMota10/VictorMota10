@@ -7,7 +7,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 <br/>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMota10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="505em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMota10&layout=compact&langs_count=7&theme=dark"  data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatohigor&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMota10&layout=compact&langs_count=7&theme=dark"  data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatohigor&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### Conect with me
@@ -19,23 +19,20 @@ I'm passionate about solving problems and learning. Always open to new challenge
  - 🕹️  Game world lover.
 
 ### My Skills
-#### Front-end:
-<p>
-
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/feab30539b67d1e24d74a18252817c0577bb8b5141618fe3f872f2078479707e/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f68746d6c5f6f726967696e616c5f776f72646d61726b5f6c6f676f5f69636f6e5f3134363437382e706e67"><img src="https://camo.githubusercontent.com/feab30539b67d1e24d74a18252817c0577bb8b5141618fe3f872f2078479707e/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f68746d6c5f6f726967696e616c5f776f72646d61726b5f6c6f676f5f69636f6e5f3134363437382e706e67" alt="html" width="45" height="48" data-canonical-src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/70f74cc47bf8eb4663963f692d8de7e0223bd34d94e6dadc772992b623b2e53e/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130372f504e472f3531322f66696c655f747970655f6373735f69636f6e5f3133303636312e706e67"><img src="https://camo.githubusercontent.com/70f74cc47bf8eb4663963f692d8de7e0223bd34d94e6dadc772992b623b2e53e/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130372f504e472f3531322f66696c655f747970655f6373735f69636f6e5f3133303636312e706e67" alt="css" width="40" height="40" data-canonical-src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" style="max-width:100%;"></a>
- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d665435625c7b27b5616f4a59fd34de958c7ec69a7c15a73f1f7df9c4d29abc0/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130382f504e472f3531322f6a6176617363726970745f69636f6e5f3133303930302e706e67"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40" data-canonical-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d665435625c7b27b5616f4a59fd34de958c7ec69a7c15a73f1f7df9c4d29abc0/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130382f504e472f3531322f6a6176617363726970745f69636f6e5f3133303930302e706e67"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40" data-canonical-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;"></a>
- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d665435625c7b27b5616f4a59fd34de958c7ec69a7c15a73f1f7df9c4d29abc0/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130382f504e472f3531322f6a6176617363726970745f69636f6e5f3133303930302e706e67"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40" data-canonical-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a></p>
-
-#### Back-end:
-<p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f06aea2585a5ebb7c97ff88c1e3ec42fe92502fbd897abe4bf2e56eb7039e1aa/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f3131322f504e472f3531322f707974686f6e5f31383839342e706e67"><img src="https://cdn.picpng.com/logo/node-js-logo-nodejs-javascript-71569.png" alt="nodejs" width="40" height="40" data-canonical-src="https://cdn.picpng.com/logo/node-js-logo-nodejs-javascript-71569.png" style="max-width:100%;"></a></p>
-
-#### Database:
-<p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f06aea2585a5ebb7c97ff88c1e3ec42fe92502fbd897abe4bf2e56eb7039e1aa/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f3131322f504e472f3531322f707974686f6e5f31383839342e706e67"><img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="nodejs" width="40" height="40" data-canonical-src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" style="max-width:100%;"></a></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f06aea2585a5ebb7c97ff88c1e3ec42fe92502fbd897abe4bf2e56eb7039e1aa/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f3131322f504e472f3531322f707974686f6e5f31383839342e706e67"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/150px-Postgresql_elephant.svg.png" alt="nodejs" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/150px-Postgresql_elephant.svg.png" style="max-width:100%;"></a></p>
+<div style="display: inline_block; color: white;"><br>
+  <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-fcba03?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="React Native" src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-242424?style=for-the-badge&logo=sass&logoColor=d44a48">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Styled%20Components-242424?style=for-the-badge&logo=styledComponents">
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-f5605d?style=for-the-badge&logo=jest&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Cypress-242424?style=for-the-badge&logo=cypress&logoColor=387d27">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-09419c?style=for-the-badge&logo=docker">
+</div>
 
 #### Ux Design:
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d665435625c7b27b5616f4a59fd34de958c7ec69a7c15a73f1f7df9c4d29abc0/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130382f504e472f3531322f6a6176617363726970745f69636f6e5f3133303930302e706e67"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" style="max-width:100%;"></a>
