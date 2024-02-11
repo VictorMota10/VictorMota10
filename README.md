@@ -1,8 +1,6 @@
 # Hey 👋!
 
-My name is Victor dos Santos Mota, Brazilian and Software Engineer.  👨🏼‍💻
-
-I'm passionate about solving problems, challenges and learning.
+My name is Victor dos Santos Mota, Software Engineer, with a solid background in web applications/mobile development and extensive experience in creating robust and efficient solutions.
 
 ### Conect with me
 
