@@ -4,7 +4,7 @@ My name is Victor dos Santos Mota, Software Engineer, with a solid background in
 
 ### Conect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-dos-santos-mota-a71180193/)](https://www.linkedin.com/in/victor-dos-santos-mota-a71180193/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.comhttps://www.instagram.com/motavic_/)](https://www.instagram.com/motavic_/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-dos-santos-mota-a71180193/)](https://www.linkedin.com/in/victor-dos-santos-mota-a71180193/)
 <br/>
 
 ### My Skills
