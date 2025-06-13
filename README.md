@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Victor dos Santos Mota, Software Engineer, with a solid background in web applications/mobile development and extensive experience in creating robust and efficient solutions.</p>
+<p align="left">My name is Victor dos Santos Mota, FullStack Software Engineer, with a solid background in web applications/mobile development and extensive experience in creating robust and efficient solutions.</p>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
